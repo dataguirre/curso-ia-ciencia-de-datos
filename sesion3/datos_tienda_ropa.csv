@@ -1,0 +1,101 @@
+ID_venta,Fecha,Producto,Categoría,Talla,Color,Precio_unitario,Cantidad,Método_pago,Sucursal
+VNT-1001,2025-04-23,Camisa formal,Camisa,M,Gris,11.67,5,Transferencia,Medellín
+VNT-1002,2025-06-28,Camisa formal,Camisa,XS,Blanco,78.29,4,Transferencia,Bogotá
+VNT-1003,2025-05-18,Short de verano,Short,XL,Azul,61.95,3,Transferencia,Cali
+VNT-1004,2025-06-14,Falda corta,Falda,XL,Blanco,61.55,5,Tarjeta,Barranquilla
+VNT-1005,2025-06-11,Sudadera deportiva,Sudadera,S,Negro,67.61,1,Efectivo,Cali
+VNT-1006,2025-06-09,Blusa elegante,Blusa,M,Negro,54.89,1,Tarjeta,Cali
+VNT-1007,2025-05-10,Vestido casual,Vestido,M,Beige,94.2,3,Transferencia,Medellín
+VNT-1008,2025-02-18,Falda corta,Falda,XL,Verde,34.85,3,Transferencia,Cali
+VNT-1009,2025-03-11,Falda corta,Falda,XS,Rojo,52.56,5,Transferencia,Cartagena
+VNT-1010,2025-03-17,Sudadera deportiva,Sudadera,M,Rojo,18.93,3,Efectivo,Cali
+VNT-1011,2025-04-18,Falda corta,Falda,M,Blanco,33.57,1,Efectivo,Barranquilla
+VNT-1012,2025-04-29,Short de verano,Short,L,Beige,47.08,4,Efectivo,Bogotá
+VNT-1013,2025-06-07,Pantalón jean,Pantalón,M,Azul,99.74,3,Transferencia,Bogotá
+VNT-1014,2025-06-09,Chaqueta impermeable,Chaqueta,M,Blanco,23.8,2,Tarjeta,Barranquilla
+VNT-1015,2025-07-20,Camisa formal,Camisa,XS,Azul,38.81,5,Efectivo,Barranquilla
+VNT-1016,2025-06-04,Pantalón jean,Pantalón,XL,Blanco,94.54,4,Efectivo,Cali
+VNT-1017,2025-04-05,Vestido casual,Vestido,XL,Rojo,76.79,2,Efectivo,Medellín
+VNT-1018,2025-06-05,Chaqueta impermeable,Chaqueta,XL,Blanco,75.39,1,Transferencia,Bogotá
+VNT-1019,2025-05-04,Camisa formal,Camisa,XS,Verde,19.28,3,Efectivo,Medellín
+VNT-1020,2025-06-07,Falda corta,Falda,L,Verde,21.24,2,Transferencia,Cali
+VNT-1021,2025-06-29,Falda corta,Falda,XL,Beige,63.85,2,Transferencia,Bogotá
+VNT-1022,2025-01-30,Abrigo largo,Abrigo,XS,Rojo,32.55,4,Transferencia,Cartagena
+VNT-1023,2025-06-20,Pantalón jean,Pantalón,XS,Beige,80.93,3,Efectivo,Cartagena
+VNT-1024,2025-04-26,Chaqueta impermeable,Chaqueta,M,Verde,77.84,4,Tarjeta,Cali
+VNT-1025,2025-04-16,Pantalón jean,Pantalón,L,Negro,87.93,4,Tarjeta,Cartagena
+VNT-1026,2025-06-27,Falda corta,Falda,XL,Verde,56.74,4,Transferencia,Barranquilla
+VNT-1027,2025-03-22,Falda corta,Falda,M,Beige,73.27,5,Transferencia,Cartagena
+VNT-1028,2025-03-30,Sudadera deportiva,Sudadera,XS,Verde,83.84,3,Efectivo,Medellín
+VNT-1029,2025-07-26,Camisa formal,Camisa,XL,Verde,96.21,5,Efectivo,Medellín
+VNT-1030,2025-05-29,Camisa formal,Camisa,XS,Azul,64.57,4,Transferencia,Bogotá
+VNT-1031,2025-03-23,Sudadera deportiva,Sudadera,M,Azul,78.91,3,Efectivo,Medellín
+VNT-1032,2025-06-04,Pantalón jean,Pantalón,M,Verde,63.37,1,Transferencia,Barranquilla
+VNT-1033,2025-02-06,Blusa elegante,Blusa,L,Blanco,68.46,5,Transferencia,Bogotá
+VNT-1034,2025-03-22,Camisa formal,Camisa,L,Beige,51.79,4,Transferencia,Medellín
+VNT-1035,2025-07-23,Camiseta básica,Camiseta,S,Beige,90.86,2,Transferencia,Medellín
+VNT-1036,2025-07-25,Vestido casual,Vestido,S,Verde,31.12,2,Transferencia,Cali
+VNT-1037,2025-03-26,Camisa formal,Camisa,M,Verde,72.41,2,Efectivo,Cali
+VNT-1038,2025-04-18,Abrigo largo,Abrigo,XL,Rojo,28.73,1,Transferencia,Bogotá
+VNT-1039,2025-02-25,Sudadera deportiva,Sudadera,M,Verde,56.86,4,Efectivo,Barranquilla
+VNT-1040,2025-04-26,Abrigo largo,Abrigo,XS,Beige,97.29,1,Tarjeta,Bogotá
+VNT-1041,2025-02-03,Camisa formal,Camisa,XS,Blanco,66.12,2,Tarjeta,Medellín
+VNT-1042,2025-05-22,Blusa elegante,Blusa,L,Rojo,81.5,5,Efectivo,Bogotá
+VNT-1043,2025-06-11,Sudadera deportiva,Sudadera,XL,Rojo,89.89,3,Transferencia,Cartagena
+VNT-1044,2025-06-10,Chaqueta impermeable,Chaqueta,S,Azul,11.07,1,Transferencia,Bogotá
+VNT-1045,2025-04-17,Chaqueta impermeable,Chaqueta,L,Verde,85.26,1,Transferencia,Medellín
+VNT-1046,2025-02-22,Camiseta básica,Camiseta,M,Beige,98.29,2,Efectivo,Bogotá
+VNT-1047,2025-05-02,Vestido casual,Vestido,XS,Beige,95.58,3,Efectivo,Cali
+VNT-1048,2025-03-01,Sudadera deportiva,Sudadera,L,Gris,11.1,3,Efectivo,Cartagena
+VNT-1049,2025-06-27,Short de verano,Short,XL,Verde,61.11,2,Efectivo,Medellín
+VNT-1050,2025-06-10,Camiseta básica,Camiseta,XL,Gris,93.92,3,Efectivo,Medellín
+VNT-1051,2025-06-11,Blusa elegante,Blusa,XS,Gris,57.36,2,Transferencia,Barranquilla
+VNT-1052,2025-05-22,Sudadera deportiva,Sudadera,XL,Verde,92.16,2,Transferencia,Bogotá
+VNT-1053,2025-03-24,Camiseta básica,Camiseta,XS,Verde,51.09,3,Efectivo,Barranquilla
+VNT-1054,2025-05-02,Abrigo largo,Abrigo,S,Gris,70.98,5,Efectivo,Barranquilla
+VNT-1055,2025-06-02,Blusa elegante,Blusa,L,Rojo,17.78,4,Transferencia,Medellín
+VNT-1056,2025-06-12,Chaqueta impermeable,Chaqueta,XL,Negro,98.92,2,Transferencia,Medellín
+VNT-1057,2025-03-06,Short de verano,Short,M,Gris,76.94,5,Tarjeta,Barranquilla
+VNT-1058,2025-03-25,Camisa formal,Camisa,S,Beige,50.16,1,Transferencia,Cartagena
+VNT-1059,2025-03-03,Vestido casual,Vestido,S,Verde,20.31,4,Tarjeta,Bogotá
+VNT-1060,2025-05-15,Short de verano,Short,XS,Negro,68.37,1,Tarjeta,Barranquilla
+VNT-1061,2025-03-01,Sudadera deportiva,Sudadera,XL,Verde,17.98,5,Transferencia,Cartagena
+VNT-1062,2025-07-22,Camiseta básica,Camiseta,L,Beige,37.55,5,Transferencia,Cali
+VNT-1063,2025-04-04,Camisa formal,Camisa,S,Beige,93.67,1,Efectivo,Bogotá
+VNT-1064,2025-06-25,Pantalón jean,Pantalón,XS,Blanco,61.94,4,Transferencia,Cali
+VNT-1065,2025-03-20,Vestido casual,Vestido,XS,Rojo,29.37,4,Transferencia,Cali
+VNT-1066,2025-04-29,Vestido casual,Vestido,L,Beige,64.39,4,Efectivo,Barranquilla
+VNT-1067,2025-03-25,Short de verano,Short,S,Gris,55.95,2,Efectivo,Cali
+VNT-1068,2025-07-20,Chaqueta impermeable,Chaqueta,S,Gris,86.13,2,Efectivo,Medellín
+VNT-1069,2025-04-12,Blusa elegante,Blusa,S,Negro,65.4,2,Transferencia,Bogotá
+VNT-1070,2025-03-06,Pantalón jean,Pantalón,M,Azul,37.88,2,Transferencia,Cartagena
+VNT-1071,2025-02-10,Short de verano,Short,M,Gris,80.28,4,Transferencia,Barranquilla
+VNT-1072,2025-07-12,Blusa elegante,Blusa,L,Blanco,77.72,3,Transferencia,Medellín
+VNT-1073,2025-02-17,Pantalón jean,Pantalón,XL,Blanco,45.02,1,Transferencia,Medellín
+VNT-1074,2025-07-07,Short de verano,Short,M,Beige,53.85,1,Transferencia,Cartagena
+VNT-1075,2025-07-29,Short de verano,Short,L,Negro,97.42,5,Transferencia,Cartagena
+VNT-1076,2025-07-07,Blusa elegante,Blusa,XL,Gris,48.83,5,Transferencia,Barranquilla
+VNT-1077,2025-04-20,Short de verano,Short,M,Negro,72.98,1,Efectivo,Cali
+VNT-1078,2025-04-29,Sudadera deportiva,Sudadera,S,Azul,47.69,1,Transferencia,Cali
+VNT-1079,2025-03-23,Pantalón jean,Pantalón,XS,Beige,24.5,5,Tarjeta,Barranquilla
+VNT-1080,2025-05-04,Short de verano,Short,M,Blanco,70.46,3,Transferencia,Barranquilla
+VNT-1081,2025-04-06,Chaqueta impermeable,Chaqueta,S,Verde,93.37,3,Efectivo,Cali
+VNT-1082,2025-05-28,Falda corta,Falda,L,Azul,23.82,5,Transferencia,Medellín
+VNT-1083,2025-05-29,Blusa elegante,Blusa,S,Blanco,37.49,5,Tarjeta,Bogotá
+VNT-1084,2025-06-22,Pantalón jean,Pantalón,M,Blanco,69.9,4,Efectivo,Cali
+VNT-1085,2025-04-02,Pantalón jean,Pantalón,S,Rojo,66.41,2,Efectivo,Cali
+VNT-1086,2025-07-12,Sudadera deportiva,Sudadera,M,Azul,97.22,5,Tarjeta,Bogotá
+VNT-1087,2025-03-02,Sudadera deportiva,Sudadera,L,Negro,69.58,5,Efectivo,Barranquilla
+VNT-1088,2025-06-23,Blusa elegante,Blusa,XS,Negro,51.65,3,Efectivo,Cartagena
+VNT-1089,2025-04-22,Short de verano,Short,XL,Rojo,91.42,4,Tarjeta,Bogotá
+VNT-1090,2025-04-08,Abrigo largo,Abrigo,XL,Verde,71.33,2,Transferencia,Cali
+VNT-1091,2025-05-14,Chaqueta impermeable,Chaqueta,L,Blanco,89.26,1,Tarjeta,Cartagena
+VNT-1092,2025-04-08,Short de verano,Short,L,Gris,73.72,4,Tarjeta,Barranquilla
+VNT-1093,2025-07-24,Vestido casual,Vestido,L,Beige,90.65,5,Tarjeta,Cali
+VNT-1094,2025-02-26,Blusa elegante,Blusa,M,Rojo,89.65,1,Efectivo,Cartagena
+VNT-1095,2025-05-18,Pantalón jean,Pantalón,L,Beige,18.46,2,Tarjeta,Cartagena
+VNT-1096,2025-07-24,Sudadera deportiva,Sudadera,M,Blanco,16.86,1,Tarjeta,Medellín
+VNT-1097,2025-05-06,Short de verano,Short,L,Negro,66.64,3,Efectivo,Barranquilla
+VNT-1098,2025-02-21,Falda corta,Falda,L,Blanco,16.2,5,Tarjeta,Medellín
+VNT-1099,2025-03-09,Pantalón jean,Pantalón,S,Gris,10.59,3,Efectivo,Cali
+VNT-1100,2025-05-16,Falda corta,Falda,XL,Beige,68.14,4,Tarjeta,Bogotá
