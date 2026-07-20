@@ -99,8 +99,8 @@ Staff Data Scientist
 **Experiencia y Educación**:
 - MSc en Ingeniería de Sistemas y Computación, Universidad de los Andes
 - Economista y Matemático, Universidad de los Andes (Colombia) y Universidad de Indiana (Estados Unidos)
-- Staff Data Scientist, World Justice Project, Washington D.C
-- Profesor de Inteligencia Artificial en la Facultad de Sistemas y el Departamento de Ingeniería de Sistemas, Universidad de los Andes
+- Senior Data Scientist, World Justice Project, Washington D.C
+- Profesor de Inteligencia Artificial en la Facultad de Economía y el Departamento de Ingeniería de Sistemas, Universidad de los Andes
 
 
 ---
