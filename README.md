@@ -1,8 +1,10 @@
-# IA Generativa para Ciencia de Datos 🚀
-
+# Inteligencia Artificial para Ciencia de Datos
+## Versiones antiguas del curso
+Este curso se actualiza constantemente. Las versiones antiguas las puede encontrar aquí:
+- [Versión 2026-10](https://github.com/dataguirre/curso-ia-ciencia-de-datos/tree/2026-10)
 ## Descripción
 
-Este curso forma profesionales en tecnologías de IA generativa avanzada, con énfasis en sistemas RAG, agentes inteligentes y conectividad con bases de datos. Los participantes aprenderán a crear aplicaciones analíticas conversacionales, implementar OCR avanzado y desarrollar agentes autónomos para investigación profunda.
+Este curso forma profesionales en tecnologías de IA para la ciencia de datos, con énfasis en sistemas RAG, agentes inteligentes y conectividad con bases de datos. Los participantes aprenderán a crear aplicaciones analíticas conversacionales, implementar OCR avanzado y desarrollar agentes autónomos para investigación profunda.
 
 ## Objetivos
 
