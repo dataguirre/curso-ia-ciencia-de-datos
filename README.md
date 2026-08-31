@@ -1,5 +1,5 @@
 # Inteligencia Artificial para Ciencia de Datos
-> **Versiones antiguas del curso**
+> **Versiones antiguas del curso**<br/>
 > Este curso se actualiza constantemente. Las versiones antiguas las puede encontrar aquí:
 > - [Versión 2026-10](https://github.com/dataguirre/curso-ia-ciencia-de-datos/tree/2026-10)
 
