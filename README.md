@@ -1,9 +1,8 @@
 # Inteligencia Artificial para Ciencia de Datos
 >[!NOTE]
-> **Versiones antiguas del curso**<br/>
-> Este curso se actualiza constantemente. Las versiones antiguas las puede encontrar aquí:
+> **Este curso se actualiza constantemente**<br/>
+> Si está siguiendo una versión anterior (o forma parte de ella), puede consultarla aquí:
 > - [Versión 2026-10](https://github.com/dataguirre/curso-ia-ciencia-de-datos/tree/2026-10)
-
 ## Descripción
 
 Este curso forma profesionales en tecnologías de IA para la ciencia de datos, con énfasis en sistemas RAG, agentes inteligentes y conectividad con bases de datos. Los participantes aprenderán a crear aplicaciones analíticas conversacionales, implementar OCR avanzado y desarrollar agentes autónomos para investigación profunda.
