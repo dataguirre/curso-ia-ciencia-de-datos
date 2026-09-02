@@ -7,9 +7,8 @@
 
 Este curso forma profesionales en tecnologías de IA para la ciencia de datos, con énfasis en sistemas RAG, agentes inteligentes y conectividad con bases de datos. Los participantes aprenderán a crear aplicaciones analíticas conversacionales, implementar OCR avanzado y desarrollar agentes autónomos para investigación profunda.
 
-Los enlaces con los datos para trabajar en cada sesión están en este link: 
-
-https://drive.google.com/drive/folders/1B4qbduvBXpL4C1osR-593p2B_t9lvd59?usp=sharing
+Pueden descargar los datos para trabajar en cada sesión en este enlace:
+- [Google Drive Curso IA para Ciencia de Datos](https://drive.google.com/drive/folders/1B4qbduvBXpL4C1osR-593p2B_t9lvd59?usp=sharing)
 ## Objetivos
 
 Al finalizar el curso, el estudiante estará en capacidad de:
